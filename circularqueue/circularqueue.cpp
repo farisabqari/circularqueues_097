@@ -11,7 +11,9 @@ public:
 	}
 	void insert() {
 		int num;
-		
+		cout << "Enter a nuber:";
+		cin >> num;
+		cout << endl;
 	}
 
 };
